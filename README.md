@@ -9,7 +9,7 @@
 
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=75B8ED" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -51,9 +51,9 @@
 &nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></span>
 &nbsp;
-<span><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></span>
+<span><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/></span>
 &nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/></span>
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -76,7 +76,7 @@
 </div>
 <br>
 ## Feeding...
-  ![snake animation](https://github.com/<seu caoanhvu>/<seu caoanhvu>/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/caoanhvu/caoanhvu/output/github-contribution-grid-snake-dark.svg)
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
