@@ -49,7 +49,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Laragon-282C34?logo=laragon&logoColor=007ACC" alt="Laragon logo" title="Laragon" height="25" /></span>
 &nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="25" height="25"/></span>
 &nbsp;
 <span><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/></span>
 &nbsp;
@@ -75,7 +75,9 @@
   <a align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caoanhvu&theme=dark" alt="caoanhvu" /></a>
 </div>
 <br>
+
 ## Feeding...
+
 ![Snake animation](https://raw.githubusercontent.com/caoanhvu/caoanhvu/output/github-contribution-grid-snake-dark.svg)
 
 <br>
