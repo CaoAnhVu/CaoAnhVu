@@ -1,17 +1,15 @@
-## 👋 Hi there, I'm Cao Anh Vu - Web Developer
-
 <!-- AndyVuCoder -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/caoanhvu.svg" width="1200" alt="CaoAnhVu-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>  2
 <!-- https://simpleicons.org/ -->
 
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=75B8ED" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=white" alt="C# logo" title="C#" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=5D8B2F" alt="C# logo" title="C#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -47,9 +45,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SQL logo" title="sql" height="25" /></span>
+<span><img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoft-sql-server&logoColor=FFCA28" alt="SQL Sever logo" title="sql sever" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Laragon-282C34?logo=laragon&logoColor=007ACC" alt="SQL logo" title="sql" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Laragon-282C34?logo=laragon&logoColor=007ACC" alt="Laragon logo" title="Laragon" height="25" /></span>
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -109,7 +107,7 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/caoanhvu-quotes.svg" width="846" height="150" alt="CaoAnhVu-official" />
 </a>
 
 <!--
