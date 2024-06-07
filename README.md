@@ -4,12 +4,12 @@
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>  2
+<br>  
 <!-- https://simpleicons.org/ -->
 
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=75B8ED" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=5D8B2F" alt="C# logo" title="C#" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=239120" alt="C# logo" title="C#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
