@@ -78,7 +78,7 @@
 
 ## Feeding...
 
-![snake animation](https://github.com/<seu caoanhvu>/<seu caoanhvu>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/caoanhvu/caoanhvu/blob/output/github-contribution-grid-snake2.svg)
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
