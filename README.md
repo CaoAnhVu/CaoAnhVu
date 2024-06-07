@@ -9,7 +9,7 @@
 
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=75B8ED" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=239120" alt="C# logo" title="C#" height="25" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -48,6 +48,8 @@
 <span><img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoft-sql-server&logoColor=FFCA28" alt="SQL Sever logo" title="sql sever" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Laragon-282C34?logo=laragon&logoColor=007ACC" alt="Laragon logo" title="Laragon" height="25" /></span>
+&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="25" height="25"/></span>
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
