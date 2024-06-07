@@ -14,14 +14,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      # Snake Animation
+      # Generate Snake Animation
       - name: Generate snake animation
         uses: Platane/snk@v2.0.0
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg
-          color_snake: red # Use the correct parameter for color if supported
+          outputs: dist/github-contribution-grid-snake2.svg
+
+      # Debug step to list files in the dist directory
+      - name: List files in dist directory
+        run: ls -l dist
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
