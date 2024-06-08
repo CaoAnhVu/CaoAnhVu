@@ -76,7 +76,7 @@
 </div>
 <br>
 
-## Feeding...
+## Watch snake eating my github contributions.
 
 ![Snake animation](https://raw.githubusercontent.com/caoanhvu/caoanhvu/output/github-contribution-grid-snake-dark.svg)
 
