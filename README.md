@@ -76,9 +76,9 @@
 </div>
 <br>
 
-## Feeding...
+<!-- ## Feeding...
 
-![Snake animation](https://raw.githubusercontent.com/caoanhvu/caoanhvu/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/caoanhvu/caoanhvu/output/github-contribution-grid-snake-dark.svg) -->
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
