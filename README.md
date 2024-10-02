@@ -2,7 +2,7 @@
 <a href="#" target="_blank">
   <img src="svg/caoanhvu.svg" width="1200" alt="CaoAnhVu-official" />
 </a>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>  
 <!-- https://simpleicons.org/ -->
