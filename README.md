@@ -5,6 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>  
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <!-- https://simpleicons.org/ -->
 
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=75B8ED" alt="C++ logo" title="C++" height="25" /></span>
