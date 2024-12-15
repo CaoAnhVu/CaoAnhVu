@@ -43,7 +43,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=sql-server&logoColor=FFCA28" /></span>
+<span><img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=sql-server&logoColor=FFCA28" alt="SQL Server logo" title="sql server" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Laragon-282C34?logo=laragon&logoColor=007ACC" alt="Laragon logo" title="Laragon" height="25" /></span>
 &nbsp;
