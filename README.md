@@ -72,7 +72,7 @@
 <!-- https://github.com/anuraghazra/github-readme-streak -->
 <br>
 <div align=center>
-  <a align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caoanhvu&theme=dark" alt="caoanhvu" /></a>.
+  <a align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caoanhvu&theme=dark" alt="caoanhvu" /></a>
 </div>
 <br>
 
